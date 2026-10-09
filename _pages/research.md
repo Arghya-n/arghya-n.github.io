@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of **Natural Language Processing** and **deep learning**, with a focus on making transformer-based language models work effectively for **low-resource and code-mixed languages**. I am broadly interested in **large language models**, **federated learning**, **multimodal learning**, and the systems and **high-performance computing** needed to train and serve them at scale.
+My research lies at the intersection of **Natural Language Processing** and **Deep Learning**, with a focus on making transformer-based language models work effectively for **low-resource and code-mixed languages**. I am broadly interested in **Artificial Intelligence**, **Large Language Models(LLMs)**, **Software Engineering**, and the systems and **high-performance computing** needed to train and serve the models at scale.
 
 ---
 

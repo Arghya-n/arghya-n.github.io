@@ -14,7 +14,7 @@ redirect_from:
 
 I am a **Software Engineer at [AsthaIT Inc.](https://asthait.com)**, Dhaka, Bangladesh, where I build scalable e-commerce and AI-powered systems. I graduated with a B.Sc. in Computer Science & Engineering from **[Chittagong University of Engineering & Technology (CUET)](https://www.cuet.ac.bd/)**, Bangladesh. My work sits at the intersection of backend engineering, distributed systems, and applied machine learning.
 
-My research focuses on **Natural Language Processing** and **Deep Dearning**, particularly transformer-based models for low-resource and code-mixed languages. I have published at ACL/NAACL and COLING workshops on fake news detection, hate speech detection, and multimodal misogyny-meme identification. I am broadly interested in **Large Language Models(LLMs)**, **Artificial Intelligence**, **Federated Learning**, and **High-performance Computing**, **Software Engineering**.
+My research focuses on **Natural Language Processing** and **Deep Dearning**, particularly transformer-based models for low-resource and code-mixed languages. I have published at ACL/NAACL and COLING workshops on fake news detection, hate speech detection, and multimodal misogyny-meme identification. I am broadly interested in **Large Language Models(LLMs)**, **Artificial Intelligence**, **Federated Learning**, **High-performance Computing** and **Software Engineering**.
 
 Recent Updates
 =====
