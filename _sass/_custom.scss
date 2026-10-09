@@ -96,3 +96,29 @@ h1, h2, h3, h4, h5, h6,
 .tag-badge[data-tag="bert"]       { background: #eefaf0; border-color: #cfefd6; }
 .tag-badge[data-tag="multimodal"] { background: #fff6e8; border-color: #ffdfb3; }
 .tag-badge[data-tag="low-resource"] { background: #eef7ff; border-color: #cadfff; }
+
+/* ---------- Inline project entries (Projects page) ---------- */
+.project-entry {
+  margin-bottom: 1.8em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid #e6e6e6;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  .archive__item-title {
+    margin-top: 0.4em;
+    margin-bottom: 0.3em;
+    color: var(--global-base-color);
+  }
+
+  .project-entry__body {
+    font-size: 0.95rem;
+    line-height: 1.6;
+
+    > :first-child {
+      margin-top: 0;
+    }
+  }
+}
