@@ -166,7 +166,6 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -192,6 +191,14 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - AGENTS.md
+  - markdown_generator
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
   - tmp
   - vendor
 keep_files:
