@@ -23,7 +23,7 @@ repository               : "Arghya-n/sakib007.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.jpg"
   name             : "Nazmus Sakib"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer at AsthaIT Inc. NLP & machine learning researcher. Building scalable systems and language technologies."
