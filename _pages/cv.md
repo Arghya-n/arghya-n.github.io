@@ -83,7 +83,6 @@ Honors & Awards
 * **Honorable Mention** — ICPC Dhaka Regional 2022 Programming Contest, 2022
 * **13th Position** — RMSTU Bangabandhu Online Divisional Programming Contest, 2021
 * **10th Position** — Tech Carnival 1.0 Programming Contest, 2021
-* **Education Board Scholarship** — Higher Secondary School Certificate, 2019
 * **15th Rank** — BUET STEM Olympiad, MME Department, 2018
 * **Education Board Scholarship** — Secondary School Certificate, 2017
 
