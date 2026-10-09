@@ -18,7 +18,8 @@ My research focuses on **Natural Language Processing** and **Deep Dearning**, pa
 
 Recent Updates
 =====
-* **Oct 2025** Joined **AsthaIT Inc.** as a Software Engineer, building a large-scale e-commerce platform.
+*  **July 2026:** Promoted to **Software Engineer II** at **AsthaIT Inc.** in recognition of professional growth and contributions to building a large-scale e-commerce platform.
+* **Oct 2025** Joined **AsthaIT Inc.** as a Software Engineer I, building a large-scale e-commerce platform.
 * **Jul–Sep 2025** Software Engineer (AI/NLP) at **Inument Solutions Limited**, where I built a Retrieval-Augmented Generation assistant for financial and tax documents.
 * **July 2025** Graduated with a B.Sc. in Computer Science & Engineering from CUET; received the **Dean's Award** for a CGPA above 3.75.
 * **May 2025** Ranked **1st on the .NET Leaderboard**, Learnathon 3.0 (Brain Station 23), with a 98/100 SonarCloud quality score.
