@@ -40,8 +40,10 @@ Selected Publications
 Experience
 ======
 * **Software Engineer**, AsthaIT Inc. (October 2025 – Present)
-  * Developing and maintaining [Apex4u.com](https://apex4u.com), a high-traffic e-commerce platform using ASP.NET Core Web API, Next.js, and AWS.
-  * Built a real-time notification system with SignalR, an AI-powered product recommendation engine (Python, FastAPI, vector search), and Redis-backed caching.
+  * Contributing to a large-scale, multi-module e-commerce platform built on a modern **.NET** stack with **Clean Architecture** and **CQRS**.
+  * Working across catalog, cart, checkout, delivery, customer, marketing, and support domains using domain-driven, SOLID design.
+  * Building cloud-native, distributed features with **NoSQL data stores**, **full-text search**, **distributed caching**, **message-based asynchronous processing**, and **serverless functions**.
+  * Developing **real-time notifications** and **background/scheduled job processing**, and delivering through **containerization and CI/CD pipelines** to managed cloud infrastructure with structured logging and monitoring.
 * **Software Engineer (AI/NLP)**, Inument Solutions Limited (July 2025 – September 2025)
   * Built **Taxinument**, a Retrieval-Augmented Generation (RAG) system for intelligent querying of financial and tax documents using LangChain, Qdrant, and OpenAI models.
 * **Undergraduate Researcher**, NLP Research Lab, Dept. of CSE, CUET (January 2024 – May 2025)

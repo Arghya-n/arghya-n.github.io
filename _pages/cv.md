@@ -34,14 +34,15 @@ Research Experience
 Professional Experience
 ======
 * **Software Engineer** — AsthaIT Inc., Dhaka, Bangladesh, October 2025 – Present
-  * Developed and maintained Apex4u.com, a high-traffic e-commerce platform using ASP.NET Core Web API, Next.js, and AWS EC2.
-  * Implemented Clean Architecture with SOLID principles and dependency injection across Domain, Application, Infrastructure, and Presentation layers.
-  * Built a real-time notification system with SignalR (WebSockets), increasing user engagement by 35%.
-  * Developed an AI-powered product recommendation system using Python, FastAPI, embeddings, and vector similarity search.
-  * Integrated AWS S3 and SQS for scalable asset delivery and reliable asynchronous processing in the POS subsystem.
-  * Built CI/CD pipelines with GitHub Actions and containerized services using Docker.
-  * Implemented Redis caching for product catalogue and session data, improving API response times by ~40%.
-  * Integrated the Google Analytics Data API for traffic analytics and custom reporting.
+  * Build and maintain a large multi-module e-commerce platform on a modern .NET stack using Clean Architecture (separated domain, infrastructure, business, web, API, and serverless layers).
+  * Apply CQRS and domain-driven design with SOLID principles, input validation, object mapping, and resilience policies.
+  * Deliver features across catalog, cart, checkout, customer, CMS, marketing/discounts, delivery, loyalty/rewards, EMI, CRM, ticketing, and search domains.
+  * Implement NoSQL persistence with full-text search indexing, plus distributed caching and data-protection key storage.
+  * Develop real-time notification services and background/recurring job processing for scheduled tasks, order workflows, and asynchronous bulk import/export.
+  * Integrate cloud services for object storage/CDN, messaging queues, email delivery, secrets management, and serverless functions.
+  * Apply event-driven messaging between services for cache invalidation and cross-service workflows.
+  * Add structured logging and application monitoring; implement secure authentication with token-based and two-factor mechanisms.
+  * Package services as containers and deploy through CI/CD to managed Kubernetes/container registries with health checks; expose APIs via OpenAPI.
 
 * **Software Engineer (AI/NLP)** — Inument Solutions Limited, Dhaka, Bangladesh, July 2025 – September 2025
   * Designed and built **Taxinument**, a Retrieval-Augmented Generation (RAG) system for intelligent querying of financial and tax documents over large PDF corpora.
