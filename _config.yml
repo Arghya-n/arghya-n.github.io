@@ -13,10 +13,10 @@ title                    : "Nazmus Sakib"
 title_separator          : "-"
 name                     : &name "Nazmus Sakib"
 description              : &description "Nazmus Sakib — Software Engineer and NLP researcher working on large language models, natural language processing, and scalable systems."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sakib007.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://arghya-n.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sakib007/sakib007.github.io"
+baseurl                  : "/sakib007.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "Arghya-n/sakib007.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

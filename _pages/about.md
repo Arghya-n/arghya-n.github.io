@@ -11,7 +11,7 @@ I am a **Software Engineer at [AsthaIT Inc.](https://asthait.com)**, Dhaka, Bang
 
 My research sits at the intersection of **Natural Language Processing** and **deep learning**, with a focus on transformer-based models for low-resource and code-mixed languages. I have published at ACL/NAACL and COLING workshops on fake news detection, hate speech detection, and multimodal misogyny-meme identification. I am broadly interested in **large language models**, **federated learning**, and **high-performance computing**.
 
-[View my full CV](/cv/) &nbsp;|&nbsp; [Email me](mailto:sakib.hb7@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/Arghya-n) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/nazmus-sakib)
+[View my full CV]({{ '/cv/' | relative_url }}) &nbsp;|&nbsp; [Email me](mailto:sakib.hb7@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/Arghya-n) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/nazmus-sakib)
 
 Research Interests
 ======
@@ -35,7 +35,7 @@ Selected Publications
 2. Md. Refaj Hossan, **Nazmus Sakib**, Md. Alam Miah, Jawad Hossain, Mohammed Moshiul Hoque. "CUET Big O@NLU of Devanagari Script Languages 2025: Identifying Script Language and Detecting Hate Speech Using Deep Learning and Transformer Models." *CHiPSAL@COLING 2025*, pp. 253–259, Abu Dhabi, UAE, 2025.
 3. Md. Refaj Hossan, **Nazmus Sakib**, Md. Alam Miah, Jawad Hossain, Mohammed Moshiul Hoque. "CUETNLP Big O@DravidianLangTech 2025: A Multimodal Fusion-based Approach for Identifying Misogyny Memes." *DravidianLangTech@NAACL 2025*, pp. 427–434, Albuquerque, New Mexico, May 2025.
 
-[See all publications](/publications/)
+[See all publications]({{ '/publications/' | relative_url }})
 
 Experience
 ======
@@ -54,7 +54,7 @@ Projects
 * **Taxinument (RAG Assistant)** — Natural-language Q&A over large PDF corpora using embeddings, Qdrant, and LangChain.
 * **Concurrent Queue Simulation Systems** — Multithreaded bank and grocery simulations demonstrating concurrency with locks and semaphores (Java).
 
-[See all projects](/portfolio/)
+[See all projects]({{ '/portfolio/' | relative_url }})
 
 Technical Skills
 ======
