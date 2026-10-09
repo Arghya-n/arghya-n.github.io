@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Nazmus Sakib is a Software Engineer and NLP researcher working on large language models, natural language processing, and scalable systems."
+description: "Nazmus Sakib — Software Engineer at AsthaIT Inc. and NLP researcher working on large language models, transformer-based models for low-resource languages, federated learning, and scalable systems."
 author_profile: true
 layout: archive
 toc: false
