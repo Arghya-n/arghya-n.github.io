@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% assign projects = site.portfolio | sort: "order" %}
+{% for post in projects %}
   <div class="project-entry">
     <h2 class="archive__item-title">{{ post.title }}</h2>
     <div class="project-entry__body">

@@ -2,6 +2,7 @@
 title: "Connect CUET Alumni Platform"
 excerpt: "Alumni networking portal with discussion forums, job boards, and event management for 5000+ alumni."
 collection: portfolio
+order: 5
 ---
 
 **Tech stack:** PHP, MySQL, Bootstrap, jQuery, AJAX (2023)

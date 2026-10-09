@@ -2,6 +2,7 @@
 title: "Task Tracker System"
 excerpt: "Full-stack task management system for software engineers built with Clean Architecture, CQRS, Redis caching, and CI/CD automation."
 collection: portfolio
+order: 2
 ---
 
 **Tech stack:** ASP.NET Core, ReactJS, Redis, MSSQL Server, GitHub Actions, Docker (2025)

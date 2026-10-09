@@ -2,6 +2,7 @@
 title: "Online Voting System for Student Organizations"
 excerpt: "Secure online voting platform with role-based authentication, candidate management, and automated result generation."
 collection: portfolio
+order: 4
 ---
 
 **Tech stack:** Java, Spring Boot, MySQL, REST API (2024)

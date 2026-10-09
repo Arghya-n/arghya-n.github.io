@@ -2,6 +2,7 @@
 title: "Taxinument — RAG Financial Document Assistant"
 excerpt: "Retrieval-Augmented Generation system for intelligent natural-language querying of financial and tax documents."
 collection: portfolio
+order: 1
 ---
 
 **Tech stack:** Python, FastAPI, LangChain, OpenAI LLMs, Qdrant (2025)

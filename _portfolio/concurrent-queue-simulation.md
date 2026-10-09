@@ -2,6 +2,7 @@
 title: "Concurrent Queue Simulation Systems"
 excerpt: "Multithreaded bank and grocery queue simulations demonstrating advanced concurrency with locks and semaphores."
 collection: portfolio
+order: 3
 ---
 
 **Tech stack:** Java, Multithreading, Concurrency (2024)
