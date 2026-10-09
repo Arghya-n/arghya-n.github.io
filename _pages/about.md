@@ -16,10 +16,6 @@ I am a **Software Engineer at [AsthaIT Inc.](https://asthait.com)**, Dhaka, Bang
 
 My research focuses on **Natural Language Processing** and **deep learning**, particularly transformer-based models for low-resource and code-mixed languages. I have published at ACL/NAACL and COLING workshops on fake news detection, hate speech detection, and multimodal misogyny-meme identification. I am broadly interested in **large language models**, **federated learning**, and **high-performance computing**.
 
-<div class="notice--success">
-I'm currently open to research collaborations and graduate opportunities in NLP and machine learning. Feel free to reach out at <a href="mailto:sakib.hb7@gmail.com">sakib.hb7@gmail.com</a>.
-</div>
-
 Recent Updates
 =====
 * **Oct 2025** Joined **[AsthaIT Inc.](https://asthait.com)** as a Software Engineer, building a large-scale e-commerce platform.
