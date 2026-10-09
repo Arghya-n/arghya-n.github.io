@@ -28,7 +28,7 @@ Research Experience
   * Designed and fine-tuned BERT-based models for fake news detection in Malayalam social media texts (NAACL 2025 workshop).
   * Built deep learning pipelines for hate speech detection in Devanagari-script languages, achieving >85% classification accuracy.
   * Developed multimodal fusion architectures combining visual and textual features for misogyny meme classification.
-  * Led team CUET NLP Big O in three ACL shared tasks (DravidianLangTech@NAACL, CHiPSAL@COLING).
+  * Led team CUET_NLP_Big_O in three ACL shared tasks (DravidianLangTech@NAACL, CHiPSAL@COLING).
 
 Professional Experience
 ======
@@ -55,7 +55,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
+<!-- Projects
 ======
 * **Task Tracker System** — ASP.NET Core, ReactJS, Redis, MSSQL Server, GitHub Actions, Docker (2025)
   * Full-stack application for software engineers to track tasks using Clean Architecture, CQRS, and CI/CD automation.
@@ -64,7 +64,7 @@ Projects
 * **Concurrent Queue Simulation Systems** — Java, Multithreading, Concurrency (2024)
   * Multithreaded bank and grocery queue simulations using locks and semaphores, achieving zero deadlocks.
 * **Online Voting System for Student Organizations** — Java, Spring Boot, MySQL, REST API (2024)
-  * Secure voting platform with role-based authentication, candidate management, vote validation, and automated results.
+  * Secure voting platform with role-based authentication, candidate management, vote validation, and automated results. -->
 
 Technical Skills
 ======
