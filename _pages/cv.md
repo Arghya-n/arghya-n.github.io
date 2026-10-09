@@ -13,8 +13,7 @@ Education
 ======
 * **B.Sc. in Computer Science & Engineering**, Chittagong University of Engineering & Technology (CUET), Chittagong, Bangladesh, 2020 – 2025
   * CGPA: 3.75 / 4.00
-  * Dean's Award — awarded for achieving CGPA above 3.75 (top academic distinction)
-  * Undergraduate research focus: Stress Identification from Bengali Social Media Texts Using Transformer-based Approaches
+  * Dean's Award — awarded for achieving CGPA above 3.75
 
 Research Experience
 ======
