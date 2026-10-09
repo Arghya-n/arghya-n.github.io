@@ -23,7 +23,19 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <div class="pub-entry">
+        <h3 class="archive__item-title"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h3>
+        <p class="pub-entry__venue">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+        {% if post.citation %}<p class="pub-entry__cite"><small>Recommended citation: {{ post.citation }}</small></p>{% endif %}
+        {% if post.paperurl %}<p><a href="{{ post.paperurl }}">Download Paper</a></p>{% endif %}
+        {% if post.bibtex %}
+        <details class="bibtex">
+          <summary>BibTeX</summary>
+          <pre>{{ post.bibtex | strip }}</pre>
+        </details>
+        {% endif %}
+      </div>
     {% endfor %}
   {% endfor %}
 {% else %}
@@ -31,6 +43,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
