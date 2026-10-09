@@ -27,5 +27,5 @@ Recent Updates
 * **May 2025** Paper <span style="color:green">accepted</span> at [DravidianLangTech @ NAACL 2025](https://sites.google.com/view/dravidianlangtech-2025) — BERT-based fake news detection in Malayalam social media texts.
 * **May 2025** Paper <span style="color:green">accepted</span> at [DravidianLangTech @ NAACL 2025](https://sites.google.com/view/dravidianlangtech-2025) — a multimodal fusion approach for identifying misogyny memes.
 * **Jan 2025** Paper <span style="color:green">accepted</span> at [CHiPSAL @ COLING 2025](https://coling2025.org/) — script language identification and hate speech detection in Devanagari-script languages.
-* **Jan 2024 – May 2025** Undergraduate Researcher at the **[CUET NLP Lab]**, Dept. of CSE, CUET, under Dr. Mohammed Moshiul Hoque.
+* **Jan 2024 – May 2025** Undergraduate Researcher at the **CUET NLP Lab**, Dept. of CSE, CUET, under Dr. Mohammed Moshiul Hoque.
 * **2022** Received an **Honorable Mention** at the ICPC Dhaka Regional Programming Contest.
